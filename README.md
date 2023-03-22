@@ -1,6 +1,6 @@
-<h1 align="center">Hola 💖, soy Sonia Alagón</h1>
+<h1 align="center">Hola 🤗, soy Sonia Alagón</h1>
 
-<h3 align="left">SOBRE MÍ</h3>
+<h3 align="left">SOBRE MÍ:</h3>
 
 - 🔭 Actualmente trabajo en mi proyecto final de máster.
 - 🌱 Estoy estudiando: Vite + React, Express.
