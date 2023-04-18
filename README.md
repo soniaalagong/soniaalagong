@@ -7,7 +7,7 @@
 - 👨‍💻 Pronto encontrarás mis proyectos en **soniaalagon.com**
 - 📫 Contáctame en **soniaalagong@gmail.com**
 
-<h3 align="left">CONTÁCTA CONMIGO:</h3>
+<h3 align="left">CONTACTA CONMIGO:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/soniaalagong" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
