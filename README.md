@@ -5,7 +5,7 @@
 - 🔭 Actualmente trabajo en mi proyecto final de máster.
 - 🌱 Estoy estudiando: Vite + React, Express.
 - 👨‍💻 Pronto encontrarás mis proyectos en **soniaalagon.com**
-- 📫 Contáctame en **soniaalagong@gmail.com**
+- 📫 Contáctame en **hola@soniaalagon.com**
 
 <h3 align="left">CONTACTA CONMIGO:</h3>
 <p align="left">
