@@ -2,8 +2,8 @@
 
 <h3 align="left">SOBRE MÍ:</h3>
 
-- 🔭 Actualmente trabajo en mi proyecto final de máster.
-- 🌱 Estoy estudiando: Vite + React, Express.
+- 🔭 Actualmente estoy reforzando mis conocimientos con unas prácticas en diseño web.
+- 🌱 He estudiado: Vite + React, Express.
 - 👨‍💻 Pronto encontrarás mis proyectos en **soniaalagon.com**
 - 📫 Contáctame en **hola@soniaalagon.com**
 
