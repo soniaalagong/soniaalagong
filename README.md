@@ -2,7 +2,7 @@
 
 <h3 align="left">SOBRE MÍ:</h3>
 
-- 🔭 Actualmente estoy reforzando mis conocimientos con unas prácticas en diseño web.
+- 🔭 Actualmente estoy haciendo prácticas con Wordpress: Elementor y Salient.
 - 🌱 He estudiado: Vite + React, Express.
 - 👨‍💻 Pronto encontrarás mis proyectos en **soniaalagon.com**
 - 📫 Contáctame en **hola@soniaalagon.com**
